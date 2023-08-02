@@ -1,6 +1,9 @@
 # pvpc
 PVPC is a regulated tariff for households
 
+![Example Image](electricity.png)
+
+
 # Description of the PVPC tariff
 
 PVPC is a regulated tariff for households. This tariff is calculated adding several costs to the wholesale spot (hourly) prices and hence it is a variable tariff. However these added costs are variable as well, and hence, the daily pattern of PVPC prices is not exactly the same than the SPOT prices. 
