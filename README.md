@@ -4,8 +4,10 @@
 
 
 
-🏭 # PVPC - Home Battery Storage Analysis
-🎯 ## Objective
+🏭 #PVPC - Home Battery Storage Analysis
+
+🎯 ##Objective
+
 PVPC is a regulated tariff for households. This tariff is calculated adding several costs to the wholesale spot (hourly) prices and hence it is a variable tariff. However these added costs are variable as well, and hence, the daily pattern of PVPC prices is not exactly the same than the SPOT prices.The objective of this notebook is to analyze the PVPC (Voluntary Price for Small Consumers) tariff data for households in Spain. The focus is on studying the daily spread of electricity prices, which is essential for evaluating the profitability of investing in home battery storage.
 
 📋 ##Key Tasks
