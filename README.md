@@ -1,6 +1,6 @@
 
 
-![Example Image](electricity .png)
+![Example Image](electricity.png)
 
 
 # Description of the PVPC tariff
